@@ -18,7 +18,7 @@ import {
     LumUtils,
     LumConstants,
     LumMessages,
-} from '@lum-network/sdk-javascript'
+} from '@cheqd/sdk-javascript'
 ```
 
 ### Software wallets

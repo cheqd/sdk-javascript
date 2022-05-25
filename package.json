@@ -1,23 +1,23 @@
 {
-    "name": "@lum-network/sdk-javascript",
+    "name": "@cheqd/sdk-javascript",
     "version": "0.7.6",
     "license": "Apache-2.0",
-    "description": "Javascript SDK library for NodeJS and Web browsers to interact with the Lum Network.",
-    "homepage": "https://github.com/lum-network/sdk-javascript#readme",
+    "description": "Javascript SDK library for NodeJS and Web browsers to interact with cheqd Network.",
+    "homepage": "https://github.com/cheqd/sdk-javascript#readme",
     "main": "build/index.js",
     "typings": "build/index.d.ts",
     "bugs": {
-        "url": "https://github.com/lum-network/sdk-javascript/issues"
+        "url": "https://github.com/cheqd/sdk-javascript/issues"
     },
     "author": {
-        "name": "Lum Network"
+        "name": "Cheqd Foundation Limited"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/lum-network/sdk-javascript.git"
+        "url": "https://github.com/cheqd/sdk-javascript.git"
     },
     "tags": [
-        "lum-network",
+        "cheqd",
         "sdk",
         "typescript",
         "blockchain",

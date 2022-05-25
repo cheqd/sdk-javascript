@@ -1,7 +1,0 @@
-build/
-docs/
-node_modules/
-proto/
-scripts/
-tests/
-*.d.ts
