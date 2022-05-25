@@ -1,5 +1,13 @@
 ### APP-SPECIFIC EXCLUSIONS ###
 
+# TypeScript v1 declaration files
+typings/
+
+# Build output
+/build
+
+# Proto files
+/proto
 
 ### GENERAL EXCLUSIONS ###
 
