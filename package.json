@@ -58,7 +58,6 @@
         "long": "^4.0.0",
         "uuid": "^8.3.2"
     },
-    "optionalDependencies": {},
     "devDependencies": {
         "@babel/cli": "^7.16.0",
         "@babel/core": "^7.16.0",
